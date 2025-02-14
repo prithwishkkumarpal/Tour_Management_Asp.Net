@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: nuget
+    directory: /DotNetFrameworkProject_CE040_CE087/Tour_Management
+    schedule:
+      interval: daily
